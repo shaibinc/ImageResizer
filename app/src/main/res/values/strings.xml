@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Image Compressor</string>
+    <string name="permission_warning_quit">"Requires  permission to your storage. "</string>
+</resources>
